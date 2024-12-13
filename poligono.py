@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Jan 06 2021
-
-@author: kon
-"""
-
 
 class Poligono:
     def __init__(self, numero_de_lados):
