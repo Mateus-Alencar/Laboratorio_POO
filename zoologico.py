@@ -1,4 +1,4 @@
-from abc import ABC, abstractmethod
+from abc import ABC, abstractmethod #abc é a sigla para Abstract Base Classes (Classes Base Abstratas).
 
 # Classe abstrata para definir o comportamento geral dos animais
 class Animal(ABC):
@@ -71,3 +71,7 @@ if __name__ == "__main__":
     # Exibindo ações
     tratador.alimentar_animais()
     tratador.fazer_animais_emitirem_som()
+
+
+
+
